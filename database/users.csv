@@ -1,0 +1,3 @@
+_id,username,password,email,position,isActive,createdAt,updatedAt,__v,avatar,birthDay,gender,yourname,resetPasswordExpires,resetPasswordToken,country
+6916e84081b52bb9221114fa,admin,$2b$10$EI2qBYZH6EgvtUGeHD2qTOY/KxIv03tkJd10xh5rrnpAg9Dl/gV/W,a@gmail.com,Admin,true,2025-11-13T17:06:32.248Z,2025-11-16T15:57:57.463Z,0,uploads/avt.png,2005-01-01T00:00:00.000Z,Male,Admin,2025-11-16T16:07:57.463Z,637891,
+6919a27a4083aec862c7ddd5,test,$2b$10$OyzZc96U.reDtLTrw5D9iujZ2fitdFTKYG/BXQSsJP6LhiocFe5YS,abc@gmail.com,Customer,true,2025-11-16T10:07:54.712Z,2025-12-03T07:03:59.126Z,0,/uploads/image_1764745438.png,+020044-12-31T00:00:00.000Z,Male,Customer Test,,,Vietnam
